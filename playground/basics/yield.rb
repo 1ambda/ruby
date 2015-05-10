@@ -41,5 +41,8 @@ pass_block { p "This is block!" }
 
 # class
 
+p 4.class
 p 4.class.class
+p 4.class.class.superclass
+p 4.class.class.superclass.superclass
 
